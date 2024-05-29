@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsletterProvider", "NewsletterProvider\NewsletterProvider.csproj", "{2AD36486-4459-4D1F-8C27-87C9D24CC27E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsletterProvider", "NewsletterProvider\NewsletterProvider.csproj", "{2AD36486-4459-4D1F-8C27-87C9D24CC27E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{1B1F5062-15EA-4E2B-B3BD-4FDC48483211}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{1B1F5062-15EA-4E2B-B3BD-4FDC48483211}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
